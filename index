@@ -1,0 +1,39 @@
+Web Application Development
+
+
+
+Go through the below reference to understand the fundamentals required to develop Backend for a Web Application
+
+#What is Web?
+Concepts Covered
+What is a Client?
+What is a Server?
+What happens when a client requests a document from server?
+HTTP
+DNS
+Packets
+#HTTP Explained
+Concepts Covered
+
+Web Server
+Aspects of HTTP
+HTTP Request - consists of
+Host
+Method
+Path
+Headers
+Query string
+Request body
+HTTP version
+HTTP Response
+Headers
+Status Code
+HTTP version
+Body
+Website vs Web Page vs Domain Name vs Search Engines
+
+What is a Web Application/Web Server?
+
+Concepts Covered
+Static Web Server
+Dynamic Web Server
